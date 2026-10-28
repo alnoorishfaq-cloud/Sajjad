@@ -1,0 +1,6 @@
+{
+  "name": "ZamZam Disposable & Shopping Bags Center",
+  "description": "Business khata, POS, and receipt maker for ZamZam Disposable with APK & PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
